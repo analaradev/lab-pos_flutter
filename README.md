@@ -1,23 +1,34 @@
 # POS Flutter
 
-Laboratorio de punto de venta desarrollado con Flutter para practicar flujos comerciales, pantallas de captura y manejo de informacion de ventas.
+<div align="center">
 
-## Objetivo
+![Lab](https://img.shields.io/badge/Tipo-Lab-f97316?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Status](https://img.shields.io/badge/Estado-Prototipo-facc15?style=for-the-badge)
 
-Explorar la estructura de una aplicacion tipo POS, incluyendo interfaces para productos, operaciones de venta y organizacion de datos dentro de una experiencia movil o multiplataforma.
+**Prototipo exploratorio de punto de venta desarrollado con Flutter.**
+
+</div>
+
+---
+
+## Contexto
+
+Laboratorio de punto de venta creado para explorar flujos comerciales, pantallas de captura y manejo de informacion de ventas.
+
+## Proposito
+
+- Construir interfaces para punto de venta.
+- Practicar navegacion, formularios y organizacion de pantallas.
+- Explorar funciones administrativas basicas.
+- Conservar una base tecnica para posibles sistemas comerciales.
 
 ## Tecnologias
 
-- Flutter
-- Dart
-
-## Enfoque del proyecto
-
-- Construccion de interfaces para punto de venta
-- Practica de navegacion y formularios
-- Organizacion de pantallas y componentes
-- Base para experimentar con funciones administrativas
+![Flutter](https://img.shields.io/badge/Flutter-2563eb?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0ea5e9?style=flat-square&logo=dart&logoColor=white)
+![POS](https://img.shields.io/badge/Punto%20de%20Venta-16a34a?style=flat-square)
 
 ## Estado
 
-Proyecto de laboratorio y aprendizaje continuo.
+Proyecto de laboratorio y prototipo tecnico.
